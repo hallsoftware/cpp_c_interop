@@ -1,4 +1,4 @@
-﻿# cpp_c_interop
+﻿# cinter - A C++ Interop Library for C APIs
 
 Utility classes to make working with C APIs safer in C++
 
